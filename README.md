@@ -15,4 +15,4 @@ The moderator generates 10 numbers and stores it in an array list of integers. W
 
 Concepts used - Design Patterns, Object Oriented Programming, Collections Framework of Java, Multithreading, Java Object Model
 
-*For More Details, open the explanation.pdf file and the Java files. The code is properly commented to explain what is happening at each instant, and conceptual explanation is given in explanation.pdf file*
+*For More Details, open the explanation.pdf file and the Java files. The code is properly commented to explain what is happening at each instant, and conceptual explanation is given in [explanation.pdf](https://github.com/neelabhsinha/Multiplayer-Tambola-Game-using-Multithreading/blob/master/explanation.pdf) file*
