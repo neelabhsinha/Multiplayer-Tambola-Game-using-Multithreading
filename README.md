@@ -16,3 +16,14 @@ The moderator generates 10 numbers and stores it in an array list of integers. W
 Concepts used - Design Patterns, Object Oriented Programming, Collections Framework of Java, Multithreading, Java Object Model
 
 *For More Details, open the explanation.pdf file and the Java files. The code is properly commented to explain what is happening at each instant, and conceptual explanation is given in [explanation.pdf](https://github.com/neelabhsinha/Multiplayer-Tambola-Game-using-Multithreading/blob/master/explanation.pdf) file*
+
+## Steps to exeute - 
+- Make sure to have JDK and/or JRE (as per requirement) installed
+- Execute the Following Commands -
+
+```
+$ git clone https://github.com/neelabhsinha/Multiplayer-Tambola-Game-using-Multithreading.git
+$ cd Multiplayer-Tambola-Game-using-Multithreading.git'
+```
+
+- If you are using Eclipse, open the project and run the GameController.java class. For any other IDE as well, compile all the classes and run the GameController.java class
