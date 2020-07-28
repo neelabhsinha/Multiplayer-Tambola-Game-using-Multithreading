@@ -11,7 +11,7 @@ public class Deck {
 	public static List <Integer> generateDeck(int numCards) {
 		List <Integer> card = new ArrayList <Integer> ();
 		Random generateRandom = new Random();
-		for(int i=0;i<10;i++) {
+		for(int i=0;i<numCards;i++) {
 			card.add(generateRandom.nextInt(51));
 		}
 		return card;
